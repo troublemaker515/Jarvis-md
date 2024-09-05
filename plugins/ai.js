@@ -99,7 +99,7 @@ System({
     if(match && m.quoted) match = match + m.reply_message.text;
     if(!match) return m.reply("_*need query !!*_\n_*eg: .chatgpt who is iron man*_");
     const { response } = await interactWithAi("gpt", match);
-    await m.send(response, { contextInfo: { forwardingScore: 1, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363197401188542@newsletter', newsletterName: 'ᴄʜᴀᴛɢᴩᴛ 4' }}});
+    await m.send(response, { contextInfo: { forwardingScore: 1, isForwarded: false, forwardedNewsletterMessageInfo: { newsletterJid: '120363197401188542@newsletter', newsletterName: 'ᴄʜᴀᴛɢᴩᴛ 4' }}});
 });
 
 System({
@@ -138,7 +138,7 @@ System({
     if(match && m.quoted) match = match + m.reply_message.text;
     if(!match) return m.reply("_*need query !!*_\n_*eg: .chatgpt who is iron man*_");
     const response = await interactWithAi("chatgpt", match);
-    await m.send(response, { contextInfo: { forwardingScore: 1, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363197401188542@newsletter', newsletterName: 'ᴄʜᴀᴛɢᴩᴛ' }}});
+    await m.send(response, { contextInfo: { forwardingScore: 1, isForwarded: false, forwardedNewsletterMessageInfo: { newsletterJid: '120363197401188542@newsletter', newsletterName: 'ᴄʜᴀᴛɢᴩᴛ' }}});
 });
 
 System({
