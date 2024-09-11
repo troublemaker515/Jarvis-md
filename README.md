@@ -6,7 +6,7 @@ jarvis md is Multi Device whatsapp bot
 
 1. Scan the QR code
     <br>
-<a href='https://jarvis.lokiser.xyz/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://qr-dnpk.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY TO HEROKU 
 
@@ -16,7 +16,7 @@ jarvis md is Multi Device whatsapp bot
 
 3. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/heroku.html' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://qr-dnpk.onrender.com/heroku.html' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO RAILWAY
@@ -27,7 +27,7 @@ jarvis md is Multi Device whatsapp bot
 
 2. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/railway.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<a href='https://qr-dnpk.onrender.com/railway.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 #### DEPLOY TO KOYEB 
 
@@ -41,7 +41,14 @@ jarvis md is Multi Device whatsapp bot
 
 2. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/koyeb.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://qr-dnpk.onrender.com/koyeb.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+#### DEPLOY TO PANEL
+
+1. If You don't have a account in panel create it . 
+2. How to deploy in panel?
+    <br>
+<a href='https://gist.github.com/IRON-M4N/f516e849f9ad569f9fdd3e5013cff0fd' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/PANEL-100000?style=for-the-badge&logo=pterodactyl&logoColor=white&labelColor=black&color=black&logoSize=auto'/></a>
 
 #### DEPLOY TO RENDER 
 
@@ -53,7 +60,7 @@ jarvis md is Multi Device whatsapp bot
 
 2. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/render.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+<a href='https://qr-dnpk.onrender.com/render.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 <details close>
     
@@ -73,7 +80,7 @@ jarvis md is Multi Device whatsapp bot
 
 2. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/replit.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://qr-dnpk.onrender.com/replit.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 #### THANKS TO
 - [INRL ❤️](https://github.com/inrl-official) <br>
